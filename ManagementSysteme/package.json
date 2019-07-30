@@ -1,0 +1,25 @@
+{
+  "name": "ManagementSysteme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^3.20.7",
+    "mockjs": "^1.0.1-beta3",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "less-loader": "^5.0.0",
+    "node-less": "^1.0.0",
+    "umi": "^2.8.16",
+    "umi-plugin-react": "^1.9.14"
+  }
+}

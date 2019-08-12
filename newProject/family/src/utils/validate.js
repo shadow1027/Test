@@ -1,0 +1,1 @@
+export const phoneValidate = /^1\d{10}$/;

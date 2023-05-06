@@ -19,7 +19,7 @@
   "devDependencies": {
     "less-loader": "^5.0.0",
     "node-less": "^1.0.0",
-    "umi": "^2.8.16",
+    "umi": "^4.0.67",
     "umi-plugin-react": "^1.9.14"
   }
 }
